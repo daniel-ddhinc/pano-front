@@ -7,7 +7,7 @@ export const mutations = {};
 export const actions = {};
 
 export default {
-  namespace: true,
+  namespaced: true,
   state,
   getters,
   mutations,
